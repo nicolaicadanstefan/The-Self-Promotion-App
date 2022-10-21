@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Here I made the conversion for Sweden language-->
+
+<resources>
+    <string name = "app_name">Promo-appen</string>
+    <string name = "hint_contact_name">Kontaktnamn</string>
+    <string name = "hint_contact_number">Kontaktnummer</string>
+    <string name = "hint_my_name">Mitt visningsnamn</string>
+    <string name = "check_box_text_include_junior">Inkludera \'Junior\'</string>
+    <string name = "check_box_text_immediate_start">Omedelbar start</string>
+    <string name = "hint_available_from">Tillgänglig från datum</string>
+    <string name = "button_text_preview">Förhandsgranska meddelande</string>
+    <string name = "button_text_send">Skicka meddelande</string>
+</resources>
